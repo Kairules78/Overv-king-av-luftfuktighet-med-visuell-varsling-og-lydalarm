@@ -56,8 +56,6 @@ mulig å oppdage varslingen uten å se på oppsettet.
 ## Veien videre
 
 Planlagte forbedringer:
-
-- [ ] Vise luftfuktigheten på to 7-segmentdisplay.
 - [ ] Legge til hysterese for å unngå hyppig bytting mellom
       alarm og normaltilstand når målingen ligger nær grenseverdien.
 - [ ] Legge til en knapp som demper lydalarmen, mens lysvarslingen
@@ -67,3 +65,4 @@ Planlagte forbedringer:
       systemet kan reagere på knappetrykk mellom målingene.
 - [ ] Dokumentere koblingene og teste oppstart, grenseverdier
       og frakoblet sensor.
+- [ ] Legge til en LCD skjerm som viser temperaturen og fuktigheten.
