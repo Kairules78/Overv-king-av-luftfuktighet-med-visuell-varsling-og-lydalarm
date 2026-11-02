@@ -52,6 +52,9 @@ anbefaling for luftfuktighet.
 Lysdiodene viser systemets tilstand, mens lydalarmen gjør det
 mulig å oppdage varslingen uten å se på oppsettet.
 
+### LCD 1602A med I2C
+Nå viser det temperatur og fuktighet målinger på LCD skjermen slik man kan se
+hvilken målinger den fanger opp. 
 
 ## Veien videre
 
@@ -65,4 +68,4 @@ Planlagte forbedringer:
       systemet kan reagere på knappetrykk mellom målingene.
 - [ ] Dokumentere koblingene og teste oppstart, grenseverdier
       og frakoblet sensor.
-- [ ] Legge til en LCD skjerm som viser temperaturen og fuktigheten.
+- [x] Legge til en LCD skjerm som viser temperaturen og fuktigheten.
